@@ -6,5 +6,6 @@ Besos
 Abu Taro.
 
 * [Soy un coya chiquitito](./SoyUnCoyaChiquitito.mp3)
+* [Chu-Chu-Uá - Piñón Fijo](./ChuChuUa.mp3)
 
 
