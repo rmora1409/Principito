@@ -5,6 +5,6 @@ A medida que vayamos aprendiendo más las vamos agregando aquí abajo, ¿te pare
 Besos
 Abu Taro.
 
-* [Soy un coya chiquitito] https://www.youtube.com/watch?v=76Ce1wuODF8
+* [Soy un coya chiquitito](./SoyUnCoyaChiquitito.mp3)  https://www.youtube.com/watch?v=76Ce1wuODF8
 
 
