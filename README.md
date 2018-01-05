@@ -1,2 +1,7 @@
 # Principito
-Para vos, mi dulce principito, un lugar donde compartir juegos, risas, amor cuando no estemos cerquita, y poder seguir juntos
+
+Si tenés ganas de jugar, ¡dale! ¡No pierdas la oportunidad!
+
+¡A jugar mi amor!
+¡Allá vamos! (Te sigo) 
+
