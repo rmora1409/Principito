@@ -1,7 +1,7 @@
 # Canciones
 
-Si tenés ganas de cantar, te dejo link a varias canciones que te gustan.
-A medida que vayamos aprendiendo más las vamos agregando aquí abajo, ¿te parece?
+Si tenés ganas de cantar, aquí te dejo varias canciones que te gustan.
+Agregamos más después, ¿te parece?
 Besos
 Abu Taro.
 
