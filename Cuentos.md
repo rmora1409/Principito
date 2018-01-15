@@ -5,4 +5,4 @@ Besos
 Abu Taro.
 
 * [El niño que perdió su nombre](./Cuento-ElNinioQuePerdioSuNombre3.pot)
-* [Aprendo a leer con mi nombre](https://www.youtube.com/watch?v=8LWOM8OyLgg)
+* [Federico se hizo pis](https://www.youtube.com/watch?v=6Sf8QS6i0ac)
