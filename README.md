@@ -10,5 +10,5 @@ Si tenés ganas de jugar, ¡dale! ¡No pierdas la oportunidad!
 * [Canciones](./Canciones.md)
 * [Cuentos](./Cuentos.md)
 * [La Luna](./LaLuna.md)
-* [Dibujitos](./Dibujitos.md)
+
 
