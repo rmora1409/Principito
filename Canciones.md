@@ -8,7 +8,5 @@ Agregamos más después, ¿te parece?
 
 * [ENCANTO AL ALMA - DISCO "MAGIA DE LA TIERRA"](./discos-EAA-MDLT.md)
 ## Publicado en http://www.encantoalalma.com/cdmagia/
-#![Disco "MAGIA DE LA TIERRA"](/.foto-disco-completo-magia-de-la-tierra.jpg)
-#Format: ![Alt Text](url)
 
 * [Volver al Inicio](./README.md)
